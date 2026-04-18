@@ -16,7 +16,11 @@ document.addEventListener('DOMContentLoaded', () => {
     const modalBody = document.getElementById('modal-body');
     const closeModal = document.getElementById('close-modal');
 
-    const API_URL = 'http://127.0.0.1:5000';
+    // Update this URL after deploying the backend to Render
+    const API_URL = window.location.hostname === '127.0.0.1' || window.location.hostname === 'localhost' 
+        ? 'http://127.0.0.1:5000' 
+        : 'https://rasoiq.onrender.com'; 
+
     let currentOffset = 0;
 
     recommendBtn.addEventListener('click', () => {

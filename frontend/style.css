@@ -220,10 +220,17 @@ button {
     transition: transform 0.2s, box-shadow 0.2s;
 }
 
+.load-more-container {
+    text-align: center;
+    margin-top: 2rem;
+    padding-bottom: 4rem;
+}
+
 .secondary-btn {
     background: var(--glass);
     border: 1px solid var(--glass-border);
     color: var(--text-primary);
+    max-width: 250px;
 }
 
 .secondary-btn:hover {
