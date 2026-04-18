@@ -1,0 +1,222 @@
+[
+    {
+        "name": "Paneer Butter Masala",
+        "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Paneer", "Tomatoes", "Onion", "Butter", "Cream", "Ginger Garlic Paste", "Garam Masala", "Chili Powder"],
+        "staples": ["Salt", "Oil", "Sugar", "Water"],
+        "instructions": "1. Sauté onions and ginger garlic paste until golden. 2. Add tomato puree and spices, cook until oil separates. 3. Add butter, cream, and paneer cubes. 4. Simmer for 5 minutes and garnish with coriander.",
+        "cuisine": "Indian",
+        "diet": "Vegetarian",
+        "region": "North India",
+        "flag": "🇮🇳"
+    },
+    {
+        "name": "Chicken Biryani",
+        "image": "https://images.unsplash.com/photo-1563379091339-03b21bc4a4f8?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Chicken", "Basmati Rice", "Yogurt", "Onions", "Mint", "Coriander", "Biryani Masala", "Saffron"],
+        "staples": ["Salt", "Oil", "Water", "Ghee"],
+        "instructions": "1. Marinate chicken in yogurt and spices. 2. Parboil rice with whole spices. 3. Layer chicken and rice in a pot. 4. Cook on low heat (Dum) for 30 minutes.",
+        "cuisine": "Indian",
+        "diet": "Non-Vegetarian",
+        "region": "Hyderabad",
+        "flag": "🇮🇳"
+    },
+    {
+        "name": "Margherita Pizza",
+        "image": "https://images.unsplash.com/photo-1604068549290-dea0e4a305ca?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella Cheese", "Fresh Basil", "Olive Oil"],
+        "staples": ["Flour", "Salt", "Water"],
+        "instructions": "1. Stretch the dough. 2. Spread tomato sauce. 3. Add fresh mozzarella. 4. Bake at high heat and top with fresh basil.",
+        "cuisine": "Italian",
+        "diet": "Vegetarian",
+        "region": "Naples",
+        "flag": "🇮🇹"
+    },
+    {
+        "name": "Chicken Tikka Masala",
+        "image": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Chicken", "Yogurt", "Tomato Puree", "Cream", "Onions", "Ginger", "Garlic", "Tikka Masala Spices"],
+        "staples": ["Salt", "Oil", "Butter"],
+        "instructions": "1. Grill marinated chicken chunks. 2. Prepare a rich tomato gravy with spices and cream. 3. Add chicken to gravy and simmer.",
+        "cuisine": "Indian",
+        "diet": "Non-Vegetarian",
+        "region": "Global/BOP",
+        "flag": "🇬🇧"
+    },
+    {
+        "name": "Greek Salad",
+        "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Cucumbers", "Tomatoes", "Red Onion", "Feta Cheese", "Olives", "Dried Oregano"],
+        "staples": ["Olive Oil", "Salt", "Lemon Juice"],
+        "instructions": "1. Toss chopped vegetables with olives. 2. Top with a block of feta cheese. 3. Drizzle with olive oil and sprinkle oregano.",
+        "cuisine": "Greek",
+        "diet": "Vegetarian",
+        "region": "Greece",
+        "flag": "🇬🇷"
+    },
+    {
+        "name": "Sushi Rolls (California)",
+        "image": "https://images.unsplash.com/photo-1579871494447-9811cf80d66c?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Sushi Rice", "Nori", "Cucumber", "Avocado", "Crab Sticks", "Pickled Ginger"],
+        "staples": ["Vinegar", "Sugar", "Soy Sauce", "Wasabi"],
+        "instructions": "1. Spread rice on nori. 2. Layer cucumber, avocado, and crab. 3. Roll tightly using a bamboo mat. 4. Slice and serve.",
+        "cuisine": "Japanese",
+        "diet": "Non-Vegetarian",
+        "region": "Japan/US",
+        "flag": "🇯🇵"
+    },
+    {
+        "name": "Pad Thai",
+        "image": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Rice Noodles", "Shrimp/Chicken", "Tofu", "Bean Sprouts", "Peanuts", "Egg", "Pad Thai Sauce"],
+        "staples": ["Oil", "Sugar", "Lime", "Garlic"],
+        "instructions": "1. Soak noodles. 2. Stir-fry protein and tofu. 3. Add noodles and sauce. 4. Toss with sprouts and peanuts.",
+        "cuisine": "Thai",
+        "diet": "Non-Vegetarian",
+        "region": "Thailand",
+        "flag": "🇹🇭"
+    },
+    {
+        "name": "Dal Tadka",
+        "image": "https://images.unsplash.com/photo-1546833999-b9f581a1996d?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Yellow Lentils", "Tomatoes", "Onion", "Garlic", "Cumin Seeds", "Turmeric", "Coriander"],
+        "staples": ["Salt", "Ghee", "Water", "Chili"],
+        "instructions": "1. Pressure cook lentils with turmeric. 2. Prepare tadka with ghee, cumin, and garlic. 3. Mix and garnish.",
+        "cuisine": "Indian",
+        "diet": "Vegetarian",
+        "region": "North India",
+        "flag": "🇮🇳"
+    },
+    {
+        "name": "Spaghetti Carbonara",
+        "image": "https://images.unsplash.com/photo-1612874742237-6526221588e3?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Spaghetti", "Eggs", "Pecorino Cheese", "Guanciale/Pancetta", "Black Pepper"],
+        "staples": ["Salt", "Water"],
+        "instructions": "1. Boil pasta. 2. Fry guanciale until crisp. 3. Mix eggs and cheese. 4. Toss pasta with meat and egg mixture away from heat.",
+        "cuisine": "Italian",
+        "diet": "Non-Vegetarian",
+        "region": "Rome",
+        "flag": "🇮🇹"
+    },
+    {
+        "name": "Guacamole",
+        "image": "https://images.unsplash.com/photo-1547005327-ef31e6a0d248?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Avocados", "Onion", "Tomatoes", "Cilantro", "Jalapeño", "Lime"],
+        "staples": ["Salt", "Pepper"],
+        "instructions": "1. Mash avocados. 2. Fold in finely chopped vegetables. 3. Season with lime and salt. 4. Serve with chips.",
+        "cuisine": "Mexican",
+        "diet": "Vegetarian",
+        "region": "Mexico",
+        "flag": "🇲🇽"
+    },
+    {
+        "name": "Tacos al Pastor",
+        "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Pork Shoulder", "Pineapple", "Achiote Paste", "Corn Tortillas", "Cilantro", "Onions"],
+        "staples": ["Salt", "Oil", "Vinegar"],
+        "instructions": "1. Marinate pork in achiote and spices. 2. Grill with pineapple. 3. Slice thinly and serve on tortillas.",
+        "cuisine": "Mexican",
+        "diet": "Non-Vegetarian",
+        "region": "Central Mexico",
+        "flag": "🇲🇽"
+    },
+    {
+        "name": "Hummus",
+        "image": "https://images.unsplash.com/photo-1574071318508-1cdbad80ad50?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Chickpeas", "Tahini", "Garlic", "Lemon Juice", "Olive Oil", "Paprika"],
+        "staples": ["Salt", "Water"],
+        "instructions": "1. Blend chickpeas, tahini, garlic, and lemon. 2. Add water for consistency. 3. Garnish with olive oil and paprika.",
+        "cuisine": "Middle Eastern",
+        "diet": "Vegetarian",
+        "region": "Levant",
+        "flag": "🇱🇧"
+    },
+    {
+        "name": "Chicken Shawarma",
+        "image": "https://images.unsplash.com/photo-1599481238640-4c1288750d7a?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Chicken Thighs", "Yogurt", "Garlic", "Lemon Juice", "Shawarma Spices", "Pita Bread", "Tahini Sauce"],
+        "staples": ["Salt", "Oil"],
+        "instructions": "1. Marinate chicken. 2. Roast or grill until charred. 3. Slice and serve in pita with sauce and veggies.",
+        "cuisine": "Middle Eastern",
+        "diet": "Non-Vegetarian",
+        "region": "Levant",
+        "flag": "🇸🇾"
+    },
+    {
+        "name": "Aloo Gobi",
+        "image": "https://images.unsplash.com/photo-1594282486552-05b4d80fbb9f?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Potatoes", "Cauliflower", "Onion", "Ginger", "Turmeric", "Cumin seeds", "Coriander leaves"],
+        "staples": ["Salt", "Oil", "Water"],
+        "instructions": "1. Sauté cumin and onions. 2. Add potatoes and cauliflower with spices. 3. Cook until tender and garnish.",
+        "cuisine": "Indian",
+        "diet": "Vegetarian",
+        "region": "North India",
+        "flag": "🇮🇳"
+    },
+    {
+        "name": "Vegetable Stir-fry",
+        "image": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Broccoli", "Bell Peppers", "Carrots", "Snap Peas", "Soy Sauce", "Ginger", "Sesame Seeds"],
+        "staples": ["Oil", "Salt", "Garlic"],
+        "instructions": "1. Flash fry veggies in a hot wok. 2. Add ginger and garlic. 3. Toss with soy sauce and sesame seeds.",
+        "cuisine": "Asian",
+        "diet": "Vegetarian",
+        "region": "East Asia",
+        "flag": "🇨🇳"
+    },
+    {
+        "name": "Egg Fried Rice",
+        "image": "https://images.unsplash.com/photo-1603133872878-684f208fb84b?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Cooked Rice", "Eggs", "Green Onions", "Soy Sauce", "Sesame Oil", "Peas & Carrots"],
+        "staples": ["Oil", "Salt", "Pepper", "Garlic"],
+        "instructions": "1. Scramble eggs. 2. Add rice and veggies. 3. Season with soy sauce and sesame oil. 4. Toss on high heat.",
+        "cuisine": "Chinese",
+        "diet": "Vegetarian",
+        "region": "China",
+        "flag": "🇨🇳"
+    },
+    {
+        "name": "Pesto Pasta",
+        "image": "https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Pasta", "Basil Leaves", "Pine Nuts", "Parmesan Cheese", "Garlic", "Extra Virgin Olive Oil"],
+        "staples": ["Salt", "Water"],
+        "instructions": "1. Blend basil, nuts, cheese, and garlic into pesto. 2. Boil pasta. 3. Toss pasta with pesto and olive oil.",
+        "cuisine": "Italian",
+        "diet": "Vegetarian",
+        "region": "Genoa",
+        "flag": "🇮🇹"
+    },
+    {
+        "name": "Chicken Caesar Salad",
+        "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Romaine Lettuce", "Grilled Chicken", "Croutons", "Parmesan Cheese", "Caesar Dressing"],
+        "staples": ["Salt", "Black Pepper", "Lemon Juice"],
+        "instructions": "1. Chop lettuce. 2. Top with grilled chicken and croutons. 3. Drizzle with dressing and shave parmesan.",
+        "cuisine": "American",
+        "diet": "Non-Vegetarian",
+        "region": "Mexico/US",
+        "flag": "🇲🇽"
+    },
+    {
+        "name": "Falafel Wrap",
+        "image": "https://images.unsplash.com/photo-1593001874117-c99c44240292?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Chickpeas", "Parsley", "Cumin", "Garlic", "Tahini", "Pita Bread", "Pickles"],
+        "staples": ["Oil", "Salt", "Water"],
+        "instructions": "1. Grind chickpeas and spices, fry into balls. 2. Spread tahini on pita. 3. Add falafel and pickles. 4. Roll and serve.",
+        "cuisine": "Middle Eastern",
+        "diet": "Vegetarian",
+        "region": "Lebant",
+        "flag": "🇪🇬"
+    },
+    {
+        "name": "Butter Chicken (Murgh Makhani)",
+        "image": "https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&q=80&w=800",
+        "ingredients": ["Chicken", "Tomato Puree", "Butter", "Cream", "Kasuri Methi", "Ginger Garlic Paste", "Kashmiri Chili"],
+        "staples": ["Salt", "Sugar", "Oil", "Water"],
+        "instructions": "1. Cook marinated chicken in tandoor or pan. 2. Simmer tomato gravy with butter and spices. 3. Add chicken and cream.",
+        "cuisine": "Indian",
+        "diet": "Non-Vegetarian",
+        "region": "Delhi",
+        "flag": "🇮🇳"
+    }
+]

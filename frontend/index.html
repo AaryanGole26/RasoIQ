@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RasoIQ | Smart Recipe Recommendations</title>
+    <meta name="description" content="Intelligent ingredient-based recipe recommendation system for Mumbai University Course Project.">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="background-blobs">
+        <div class="blob blob-1"></div>
+        <div class="blob blob-2"></div>
+        <div class="blob blob-3"></div>
+    </div>
+
+    <header>
+        <nav>
+            <div class="logo">Raso<span>IQ</span></div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h1>Turn Ingredients into <span>Masterpieces</span></h1>
+            <p>Smart recipe recommendations based on what you already have in your kitchen.</p>
+        </section>
+
+        <section class="input-section">
+            <div class="glass-card">
+                <div class="input-group">
+                    <label for="ingredients">What's in your pantry?</label>
+                    <input type="text" id="ingredients" placeholder="e.g. Tomato, Onion, Paneer..." autocomplete="off">
+                    <small>Separate ingredients with commas</small>
+                </div>
+
+                <div class="filters">
+                    <div class="filter-group">
+                        <label for="diet">Dietary Preference</label>
+                        <select id="diet">
+                            <option value="any">Any Diet</option>
+                            <option value="veg">Vegetarian</option>
+                            <option value="non-veg">Non-Vegetarian</option>
+                        </select>
+                    </div>
+
+                    <div class="filter-group">
+                        <label for="cuisine">Cuisine Type</label>
+                        <select id="cuisine">
+                            <option value="any">Any Cuisine</option>
+                            <option value="indian">Indian</option>
+                            <option value="italian">Italian</option>
+                            <option value="mexican">Mexican</option>
+                            <option value="japanese">Japanese</option>
+                            <option value="thai">Thai</option>
+                            <option value="french">French</option>
+                        </select>
+                    </div>
+                </div>
+
+                <button id="recommend-btn">Get Recommendations</button>
+            </div>
+        </section>
+
+        <section id="results-section" class="results-section">
+            <div id="loader" class="loader hidden"></div>
+            <div id="no-results" class="no-results hidden">
+                <h3>No recipes found. Try adding more ingredients!</h3>
+            </div>
+            <div id="results-container" class="results-grid">
+                <!-- Recipe cards will be injected here -->
+            </div>
+
+            <div id="load-more-container" class="hidden" style="text-align: center; margin-top: 2rem; padding-bottom: 4rem;">
+                <button id="load-more-btn" class="secondary-btn" style="max-width: 250px;">Generate More</button>
+            </div>
+        </section>
+
+        <!-- Modal for Detailed Instructions -->
+        <div id="recipe-modal" class="modal hidden">
+            <div class="modal-content glass-card">
+                <span id="close-modal" class="close-btn">&times;</span>
+                <div id="modal-body">
+                    <!-- Dynamic Content -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 RasoIQ - Smart Ingredient Recommendations</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
