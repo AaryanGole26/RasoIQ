@@ -11,6 +11,10 @@ It uses a weighted intersection-over-union scoring mechanism with specific penal
 - **Staple Handling**: Automatically assumes user has basic items (salt, water, oil) without asking.
 - **Premium UI**: Ultra-modern Glassmorphism design with responsive layouts.
 
+## 🏗️ System Architecture
+
+![RasoIQ Architecture](rasoiq_system_architecture.png)
+
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3 (Vanilla + Glassmorphism), JavaScript (Vanilla ES6).
 - **Backend**: Python 3.x, Flask, Flask-CORS.
