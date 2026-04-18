@@ -13,7 +13,7 @@ It uses a weighted intersection-over-union scoring mechanism with specific penal
 
 ## 🏗️ System Architecture
 
-![RasoIQ Architecture](./assets/rasoiq_system_architecture.png)
+![RasoIQ Architecture](rasoiq_system_architecture.png)
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3 (Vanilla + Glassmorphism), JavaScript (Vanilla ES6).
